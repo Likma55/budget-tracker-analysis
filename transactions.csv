@@ -1,0 +1,59 @@
+date,description,category,type,amount
+2024-01-03,Salary,Income,income,2500.00
+2024-01-05,Rent payment,Housing,expense,750.00
+2024-01-06,Grocery shopping,Food,expense,85.40
+2024-01-08,Electric bill,Utilities,expense,62.00
+2024-01-10,Bus pass,Transport,expense,45.00
+2024-01-12,Netflix subscription,Entertainment,expense,15.99
+2024-01-14,Grocery shopping,Food,expense,73.20
+2024-01-16,Mobile phone bill,Utilities,expense,30.00
+2024-01-18,Lunch out,Food,expense,18.50
+2024-01-20,Gym membership,Health,expense,25.00
+2024-01-22,Grocery shopping,Food,expense,91.10
+2024-01-25,Freelance payment,Income,income,300.00
+2024-01-27,Clothing,Shopping,expense,55.00
+2024-01-29,Internet bill,Utilities,expense,40.00
+2024-02-01,Salary,Income,income,2500.00
+2024-02-03,Rent payment,Housing,expense,750.00
+2024-02-05,Grocery shopping,Food,expense,79.30
+2024-02-07,Electric bill,Utilities,expense,58.00
+2024-02-09,Bus pass,Transport,expense,45.00
+2024-02-11,Doctor visit,Health,expense,40.00
+2024-02-13,Grocery shopping,Food,expense,88.60
+2024-02-15,Mobile phone bill,Utilities,expense,30.00
+2024-02-17,Cinema tickets,Entertainment,expense,24.00
+2024-02-19,Lunch out,Food,expense,22.00
+2024-02-21,Gym membership,Health,expense,25.00
+2024-02-23,Grocery shopping,Food,expense,95.40
+2024-02-25,Freelance payment,Income,income,200.00
+2024-02-27,Books,Education,expense,35.00
+2024-03-01,Salary,Income,income,2500.00
+2024-03-03,Rent payment,Housing,expense,750.00
+2024-03-05,Grocery shopping,Food,expense,82.70
+2024-03-07,Electric bill,Utilities,expense,55.00
+2024-03-09,Bus pass,Transport,expense,45.00
+2024-03-11,Netflix subscription,Entertainment,expense,15.99
+2024-03-13,Grocery shopping,Food,expense,77.80
+2024-03-15,Mobile phone bill,Utilities,expense,30.00
+2024-03-17,Lunch out,Food,expense,19.50
+2024-03-19,Gym membership,Health,expense,25.00
+2024-03-21,Grocery shopping,Food,expense,89.20
+2024-03-23,Online course,Education,expense,49.00
+2024-03-25,Freelance payment,Income,income,450.00
+2024-03-27,Transport taxi,Transport,expense,28.00
+2024-03-29,Clothing,Shopping,expense,70.00
+2024-04-01,Salary,Income,income,2500.00
+2024-04-03,Rent payment,Housing,expense,750.00
+2024-04-05,Grocery shopping,Food,expense,93.10
+2024-04-07,Electric bill,Utilities,expense,60.00
+2024-04-09,Bus pass,Transport,expense,45.00
+2024-04-11,Grocery shopping,Food,expense,81.50
+2024-04-13,Mobile phone bill,Utilities,expense,30.00
+2024-04-15,Cinema tickets,Entertainment,expense,20.00
+2024-04-17,Lunch out,Food,expense,25.00
+2024-04-19,Gym membership,Health,expense,25.00
+2024-04-21,Grocery shopping,Food,expense,87.90
+2024-04-23,Freelance payment,Income,income,350.00
+2024-04-25,Books,Education,expense,28.00
+2024-04-27,Transport taxi,Transport,expense,32.00
+2024-04-29,Internet bill,Utilities,expense,40.00
